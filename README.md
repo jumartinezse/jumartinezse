@@ -31,24 +31,7 @@ if __name__ == '__main__':
     me = jumartinezse()
 ```
 <!--START_SECTION:chessStats-->
-name: Chess Games & Stats Action
 
-on:
-  schedule:
-    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update readme with your chess stats and games
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Balastrong/chess-stats-action@main
-        with:
-          CHESS_USERNAME: <Juanesmarser>
 <!--END_SECTION:chessStats-->
 ## My Statistics
 
