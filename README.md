@@ -2,7 +2,7 @@
   <b>Jumartinezse Info</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
+Hello everyone! I'm Juan Esteban, an engineering student at Universidad Nacional de Colombia and a beginner programmer
 <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
 and learning programming through small projects  on the side.
 
