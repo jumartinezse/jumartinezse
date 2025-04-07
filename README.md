@@ -1,5 +1,5 @@
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<h1 align="center"><b>Hi , I'm Juan Esteban </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
 
 Hello everyone! I'm Juan Esteban, an engineering student at Universidad Nacional de Colombia and a beginner programmer
 <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
